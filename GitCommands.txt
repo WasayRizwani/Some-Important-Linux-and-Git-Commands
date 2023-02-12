@@ -1,0 +1,12 @@
+git init command is used to generate a new, empty Git repository or to reinitialize an existing one
+git add is a command, which adds changes in the working directory to the staging area. 
+git commit, it records changes to the repository.
+git reflog , it manages the information regarding reference logs.
+git checkout  is used to switch branches 
+git branch can be used to create, list and delete branches.
+git fetch command is used to download commits, files and references from a remote repository into the local repository.
+git push  updates remote refs along with associated objects.The arguments provided with the command are used to find the location of remote repository
+git status command shows the state of the working directory and the staging area
+git clone is used to copy the existing repository into a new repository.
+git pull command fetches and downloads content from the remote repository and integrates changes into the local repository.
+git bisect ,it uses binary search to find the commit that introduced a bug
