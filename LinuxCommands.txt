@@ -1,12 +1,12 @@
-ls is used to list  files in tht directory
-cd is used to change working directory 
-cp is used to copy files
-mkdir is used to make a new directory 
-rm is used to remove a file 
-rmdir is used to remove the directory 
-cat is used to putput file contents
-ping [host] command is used to ping the host 
-ps command is used to see the current running processes 
-ssh user@host command is used to connect to a remote host
-chmod  command is used to change the permissions of a file 
-grep command is used to search in files for a specific pattern
+1) ls is used to list  files in tht directory
+2) cd is used to change working directory 
+3) cp is used to copy files
+4) mkdir is used to make a new directory 
+5) rm is used to remove a file 
+6) rmdir is used to remove the directory 
+7) cat is used to putput file contents
+8) ping [host] command is used to ping the host 
+9) ps command is used to see the current running processes 
+10) ssh user@host command is used to connect to a remote host
+11 chmod  command is used to change the permissions of a file 
+12) grep command is used to search in files for a specific pattern
