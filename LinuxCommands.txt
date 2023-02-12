@@ -3,7 +3,7 @@
 3) cp is used to copy files
 4) mkdir is used to make a new directory 
 5) rm is used to remove a file 
-6) rmdir is used to remove the directory 
+6) rmdir is used to remove the directory.
 7) cat is used to putput file contents
 8) ping [host] command is used to ping the host 
 9) ps command is used to see the current running processes 
